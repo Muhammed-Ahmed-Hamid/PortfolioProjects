@@ -1,20 +1,4 @@
 
-select
-*
-from
-MSBA23..covid_deaths
-where
- location like '%income'
-order by
-3,4
-
-
---select
---*
---from
---MSBA23..covid_vaccinations
---order by
---3,4
 
 --Selecting Data That will be used:
 select
